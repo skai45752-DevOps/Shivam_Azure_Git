@@ -34,9 +34,11 @@ jobs:
 
       - name: Terraform Init
         run: terraform init
+        working-directory: "Child_Module/Resource_Group"
 
       - name: Terraform Validate
         run: terraform validate
+        working-directory: "Child_Module/Resource_Group"
 
       - name: Terraform Plan
         run: terraform plan
