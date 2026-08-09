@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - features/part1
+      - 'features/**'
 
 permissions:
   id-token: write
