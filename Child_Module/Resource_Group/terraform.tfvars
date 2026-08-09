@@ -4,4 +4,9 @@ rg1 = {
         location = "central india"
 
     }
+    "rg2" = {
+        name = "rg-shiv"
+        location = "central india"
+
+    }
 }
