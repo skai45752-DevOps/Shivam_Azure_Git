@@ -9,4 +9,9 @@ rg1 = {
         location = "central india"
 
     }
+    "rg3" = {
+        name = "rg-shakti"
+        location = "central india"
+
+    }
 }
