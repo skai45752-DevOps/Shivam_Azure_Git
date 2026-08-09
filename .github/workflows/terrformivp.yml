@@ -40,3 +40,4 @@ jobs:
 
       - name: Terraform Plan
         run: terraform plan
+        working-directory: "Child_Module/Resource_Group"
